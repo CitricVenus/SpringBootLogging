@@ -1,0 +1,4 @@
+2025-05-16 13:36:46 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2025-05-16 13:36:54 ERROR com.example.demo.UserController - Intento de borrar usuario no existente con ID: 2
+2025-05-16 13:37:49 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name]
+2025-05-16 13:37:51 WARN  com.example.demo.UserController - Intento de crear usuario con datos incompletos
